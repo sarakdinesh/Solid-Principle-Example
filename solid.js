@@ -1,7 +1,3 @@
-/*
-Code examples from the article: S.O.L.I.D The first 5 priciples of Object Oriented Design with JavaScript
-https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa#.7uj4n7rsa
-*/
 
 const shapeInterface = (state) => ({
   type: 'shapeInterface',
